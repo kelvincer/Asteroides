@@ -1,0 +1,10 @@
+<resources>
+    <string name="Arrancar">Play</string>
+    <string name="Configurar">Set up</string>
+    <string name="Acercade">About</string>
+    <string name="Puntuaciones">Scores</string>
+    <string name="tituloAplicacion">Asteroides</string>
+    <string name="app_name">Asteroides</string>
+    <string name="action_settings">Settings</string>
+    <string name="convertidor_de_divisas">currency converter</string>
+</resources>

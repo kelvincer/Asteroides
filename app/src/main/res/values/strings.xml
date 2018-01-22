@@ -1,0 +1,17 @@
+<resources>
+    <string name="Arrancar">Jugar</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Acercade">Acerca de </string>
+    <string name="Puntuaciones">Puntuaciones</string>
+    <string name="tituloAplicacion">Asteroides</string>
+    <string name="app_name">Asteroides</string>
+    <string name="action_settings">Configuración</string>
+    <string name="convertidor_de_divisas">Convertidor de divisas</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="convertidor">Convertidor de divisas</string>
+    <string name="resultado">Resultado:</string>
+    <string name="convertir">Convertir</string>
+    <string name="ingrese_cantidad">Ingrese cantidad</string>
+    <string name="de">De:</string>
+    <string name="a">A:</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tiposGraficos">
+        <item>vectorial</item>
+        <item>bitmap</item>
+        <item>3D</item>
+        <item>VectorDrawable</item>
+    </string-array>
+
+    <string-array name="tiposGraficosValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <array name="loading_images">
+        <item>@drawable/ic_asteroid1</item>
+        <item>@drawable/ic_asteroid2</item>
+        <item>@drawable/ic_asteroid3</item>
+    </array>
+
+    <string-array name="tiposAlmacenamiento">
+        <item>Array</item>
+        <item>Preferencias</item>
+        <item>Fichero en memoria interna</item>
+        <item>Fichero en memoria externa</item>
+        <item>En XML con SAX</item>
+        <item>Con GSON</item>
+        <item>Con JSON</item>
+        <item>Base de datos</item>
+        <item>Carpeta de la aplicación</item>
+        <item>Recurso Raw(solo lectura)</item>
+        <item>Recurso Assets(solo lectura)</item>
+        <item>Base de datos relacional</item>
+        <item>Sockets</item>
+        <item>Servicio PHP</item>
+        <item>Servicio PHP AsyncTask</item>
+        <item>Sockets AsyncTask</item>
+        <item>Content Provider</item>
+        <item>XML con DOM</item>
+        <item>Servicio Hosting PHP</item>
+    </string-array>
+
+    <string-array name="tiposAlmacenamientoValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+
+</resources>
